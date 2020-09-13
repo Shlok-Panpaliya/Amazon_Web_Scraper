@@ -15,7 +15,7 @@ Settings -> About Chrome
 
 After dowloading the zip file of the chromedriver extract it in the amazon_web_scrapper folder.
 
-## Python Virtual Enviornment Setup
+## Installation Steps
 ```
 mkdir amazon_web_scrapper
 cd amazon_web_scrapper
