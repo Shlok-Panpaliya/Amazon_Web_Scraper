@@ -1,0 +1,114 @@
+{
+    "title": "iphone",
+    "date": "13/09/2020 09:02:55",
+    "best_item": {
+        "asin": "B01LSUYWO0",
+        "url": "http://www.amazon.de/dp/B01LSUYWO0",
+        "title": "Apple iPhone 7 (32 GB) - Black",
+        "seller": "Visit the Apple Store",
+        "price": 299.0
+    },
+    "currency": "\u20ac",
+    "filters": {
+        "min": "275",
+        "max": "650"
+    },
+    "base_link": "http://www.amazon.de/",
+    "products": [{
+        "asin": "B0875Q8CD9",
+        "url": "http://www.amazon.de/dp/B0875Q8CD9",
+        "title": "Apple iPhone SE, 64GB, Black",
+        "seller": "Visit the Apple Store",
+        "price": 434.84
+    }, {
+        "asin": "B0875FBH29",
+        "url": "http://www.amazon.de/dp/B0875FBH29",
+        "title": "Apple iPhone SE, 128gb, Black",
+        "seller": "Visit the Apple Store",
+        "price": 489.0
+    }, {
+        "asin": "B07HB4TJH1",
+        "url": "http://www.amazon.de/dp/B07HB4TJH1",
+        "title": "Apple iPhone XR (64GB) - Black",
+        "seller": "Visit the Apple Store",
+        "price": 586.89
+    }, {
+        "asin": "B0875LJ8R4",
+        "url": "http://www.amazon.de/dp/B0875LJ8R4",
+        "title": "Apple iPhone SE, 64GB, White",
+        "seller": "Visit the Apple Store",
+        "price": 450.84
+    }, {
+        "asin": "B0875KX4ZZ",
+        "url": "http://www.amazon.de/dp/B0875KX4ZZ",
+        "title": "Apple iPhone SE, 64GB, red",
+        "seller": "Visit the Apple Store",
+        "price": 439.0
+    }, {
+        "asin": "B01LSUYWO0",
+        "url": "http://www.amazon.de/dp/B01LSUYWO0",
+        "title": "Apple iPhone 7 (32 GB) - Black",
+        "seller": "Visit the Apple Store",
+        "price": 299.0
+    }, {
+        "asin": "B0875QC8B6",
+        "url": "http://www.amazon.de/dp/B0875QC8B6",
+        "title": "Apple iPhone SE, 128gb, White",
+        "seller": "Visit the Apple Store",
+        "price": 499.0
+    }, {
+        "asin": "B07XRR2634",
+        "url": "http://www.amazon.de/dp/B07XRR2634",
+        "title": "Apple iPhone 11, 64GB",
+        "seller": "Visit the Apple Store",
+        "price": 705.88
+    }, {
+        "asin": "B07HBCFFRG",
+        "url": "http://www.amazon.de/dp/B07HBCFFRG",
+        "title": "Apple iPhone XR (64GB) - White",
+        "seller": "Visit the Apple Store",
+        "price": 599.5
+    }, {
+        "asin": "B0875S72BM",
+        "url": "http://www.amazon.de/dp/B0875S72BM",
+        "title": "Apple iPhone SE, 128gb, red",
+        "seller": "Visit the Apple Store",
+        "price": 509.0
+    }, {
+        "asin": "B07HBC7YF4",
+        "url": "http://www.amazon.de/dp/B07HBC7YF4",
+        "title": "Apple iPhone XR (128GB) - Black",
+        "seller": "Visit the Apple Store",
+        "price": 690.54
+    }, {
+        "asin": "B07XRR786P",
+        "url": "http://www.amazon.de/dp/B07XRR786P",
+        "title": "Apple iPhone 11, 64GB",
+        "seller": "Visit the Apple Store",
+        "price": 711.92
+    }, {
+        "asin": "B0875LV1SJ",
+        "url": "http://www.amazon.de/dp/B0875LV1SJ",
+        "title": "Apple iPhone SE, 256GB, White",
+        "seller": "Visit the Apple Store",
+        "price": 589.0
+    }, {
+        "asin": "B07HBF4FDS",
+        "url": "http://www.amazon.de/dp/B07HBF4FDS",
+        "title": "Apple iPhone XR (64GB) - Coral",
+        "seller": "Visit the Apple Store",
+        "price": 647.22
+    }, {
+        "asin": "B07XRR2CQ8",
+        "url": "http://www.amazon.de/dp/B07XRR2CQ8",
+        "title": "Apple iPhone 11, 64GB",
+        "seller": "Visit the Apple Store",
+        "price": 705.0
+    }, {
+        "asin": "B0875W2DBX",
+        "url": "http://www.amazon.de/dp/B0875W2DBX",
+        "title": "Apple iPhone SE, 256GB, Black",
+        "seller": "Visit the Apple Store",
+        "price": 624.84
+    }]
+}
