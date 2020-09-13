@@ -8,7 +8,7 @@
 - Stores the information of all products in a json file.
 
 ## Link to download chrome driver
-Downlaod correct chrome browser after checking version of your chrome. 
+Downlaod correct chrome driver after checking version of your chrome. 
 ### Steps to check chrome version
 Settings -> About Chrome
 (https://chromedriver.chromium.org/downloads).
