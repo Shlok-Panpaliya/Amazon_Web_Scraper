@@ -1,6 +1,6 @@
 # Amazon_Web_Scrapper
 
-## Python Vrtual Enviornment Setup
+## Python Virtual Enviornment Setup
 ```
   mkdir amazon_web_scrapper
   cd amazon_web_scrapper
