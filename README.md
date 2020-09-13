@@ -1,7 +1,9 @@
 # Amazon_Web_Scrapper
 
 ## Link to download chrome driver
-
+Downlaod correct chrome browser after checking version of your chrome 
+### Steps to check chrome version
+Settings -> About Chrome
 (https://chromedriver.chromium.org/downloads)
 
 ## Python Virtual Enviornment Setup
