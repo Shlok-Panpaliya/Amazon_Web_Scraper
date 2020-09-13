@@ -17,10 +17,10 @@ After dowloading the zip file of the chromedriver extract it in the amazon_web_s
 
 ## Python Virtual Enviornment Setup
 ```
-  mkdir amazon_web_scrapper
-  cd amazon_web_scrapper
-  python3 -m venv venv
-  . venv/bin/activate
-  pip install -r requirements.txt
-  python simple_tracker.py
+mkdir amazon_web_scrapper
+cd amazon_web_scrapper
+python3 -m venv venv
+. venv/bin/activate
+pip install -r requirements.txt
+python simple_tracker.py
 ```
