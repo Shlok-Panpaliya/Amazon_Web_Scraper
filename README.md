@@ -1,5 +1,12 @@
 # Amazon_Web_Scrapper
 
+## Feature of the script
+
+- Gets url of the website where products are displayed
+- Gets url of each individual product on the page
+- Extracts information(eg. product_id,url,seller,price) of each product
+- Stores the information of all producst in a json file
+
 ## Link to download chrome driver
 Downlaod correct chrome browser after checking version of your chrome 
 ### Steps to check chrome version
