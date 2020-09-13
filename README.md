@@ -1,5 +1,9 @@
 # Amazon_Web_Scrapper
 
+## Link to download chrome driver
+
+(https://chromedriver.chromium.org/downloads)
+
 ## Python Virtual Enviornment Setup
 ```
   mkdir amazon_web_scrapper
