@@ -1,4 +1,4 @@
-# Amazon_Web_Scrapper
+# Amazon_Web_Scraper
 
 ## Feature of the script
 
