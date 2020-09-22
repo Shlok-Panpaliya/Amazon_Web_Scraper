@@ -7,6 +7,9 @@
 - Extracts information(eg. product_id,url,seller,price) of each product.
 - Stores the information of all products in a json file.
 
+### Selenium Documentation- Python
+https://selenium-python.readthedocs.io/api.html
+
 ## Link to download chrome driver
 Downlaod correct chrome driver after checking version of your chrome. 
 ### Steps to check chrome version
