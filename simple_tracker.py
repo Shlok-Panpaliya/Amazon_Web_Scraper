@@ -13,6 +13,11 @@ from amazon_config import(
     FILTERS,
     BASE_URL
 )
+#Make it UI enabled by asking name of product,price range
+#implement code to show only products within entered price range
+#Check if product is in stock
+#Make it read multiple pages according to number of product user wants to see.
+
 class AmazonAPI:
     def __init__(self,search_term,filters,base_url,currency):
         options = get_web_driver_options()
