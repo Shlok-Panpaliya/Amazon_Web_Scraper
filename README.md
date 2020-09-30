@@ -8,14 +8,16 @@
 - Stores the information of all products in a json file.
 
 ### Selenium Documentation- Python
+[Selenium docs](
 https://selenium-python.readthedocs.io/api.html
-
-## Link to download chrome driver
-Downlaod correct chrome driver after checking version of your chrome. 
+)
+ 
 ## Download chrome driver and check chrome version
+Downlaod correct chrome driver after checking version of your chrome.
 [Chrome-driver](https://chromedriver.chromium.org/downloads)
 
 chrome version: Settings-> About
+
 ## Installation Steps
 
 #### make a folder
