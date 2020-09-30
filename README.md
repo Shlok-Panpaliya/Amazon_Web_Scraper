@@ -12,12 +12,10 @@ https://selenium-python.readthedocs.io/api.html
 
 ## Link to download chrome driver
 Downlaod correct chrome driver after checking version of your chrome. 
-### Steps to check chrome version
-Settings -> About Chrome
-(https://chromedriver.chromium.org/downloads).
+## Download chrome driver and check chrome version
+[Chrome-driver](https://chromedriver.chromium.org/downloads)
 
-After dowloading the zip file of the chromedriver extract it in the amazon_web_scrapper folder.
-
+chrome version: Settings-> About
 ## Installation Steps
 
 #### make a folder
